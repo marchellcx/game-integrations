@@ -2,16 +2,40 @@
     "format": 1,
     "games": [
         {
+            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/arknights/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/factorio/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://github.com/an-anime-team/game-integrations/blob/master/games/genshin/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://github.com/an-anime-team/game-integrations/blob/master/games/hi3/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://github.com/an-anime-team/game-integrations/blob/master/games/hsr/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://github.com/an-anime-team/game-integrations/blob/master/games/neverness-to-everness/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://github.com/an-anime-team/game-integrations/blob/master/games/wuva/manifest.json",
+            "featured": true
+        },
+        {
             "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/zenless-zone-zero/manifest.json",
             "featured": true
         },
         {
             "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/votv/manifest.json",
             "featured": false
-        },
-        {
-            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/arknights/manifest.json",
-            "featured": true
         },
         {
             "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/nikke/manifest.json",
@@ -21,9 +45,5 @@
             "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/manifest.json",
             "featured": false
         },
-        {
-            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/factorio/manifest.json",
-            "featured": false
-        }
     ]
 }
